@@ -1,0 +1,5 @@
+nombre = input("¿Cuál es tu nombre? ")
+edad = input("¿Cuántos años tienes? ")
+
+print("Hola", nombre)
+print("Tienes", edad, "años")
